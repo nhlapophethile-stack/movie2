@@ -23,18 +23,10 @@
 - [x] Add loading states and error handling to `frontend/src/pages/EditReview.jsx`
 - [x] Update `frontend/src/pages/Profile.jsx` to show user info if authenticated
 
-## 5. Show Top Rated Movies by Default and Indicate User Reviews
-- [x] Change default category to 'top_rated' in Movies.jsx
-- [x] Add Firestore imports for querying user reviews
-- [x] Add state for userReviews in Movies.jsx
-- [x] Add useEffect to fetch user reviews when currentUser changes
-- [x] Update movie cards to show "Reviewed" badge if user has reviewed the movie
-
-## 6. Testing
+## 5. Testing
 - [ ] Run frontend and backend
 - [ ] Test auth flow (login/register)
 - [ ] Test search functionality
 - [ ] Test star ratings
 - [ ] Test loading states and error handling
 - [ ] Ensure protected routes work
-- [ ] Test top rated movies default and review indicators
