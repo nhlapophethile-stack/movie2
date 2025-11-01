@@ -1,0 +1,3 @@
+body { background: #f6f7fb; }
+.movie-card { cursor: pointer; transition: transform .12s; }
+.movie-card:hover { transform: translateY(-6px); }
