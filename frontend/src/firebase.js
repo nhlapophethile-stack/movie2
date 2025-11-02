@@ -5,6 +5,7 @@ import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
   apiKey: "AIzaSyBSOLrVCUbq3KOQkoEyuoVWTWRYPhVVdqQ",
   authDomain: "movies-4180f.firebaseapp.com",
+  databaseURL: "https://movies-4180f-default-rtdb.firebaseio.com/",
   projectId: "movies-4180f",
   storageBucket: "movies-4180f.firebasestorage.app",
   messagingSenderId: "137906722927",
